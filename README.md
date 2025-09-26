@@ -68,34 +68,21 @@ K    = 0.054;          % Induced drag factor
 
 ## 📊 Sample Output Plots
 
-### Jet Aircraft
+1. **CL vs Alpha**  
+   ![CL vs Alpha](img/cl_vs_alpha.jpg)
 
-1. **CL vs Alpha**
-   ![CL vs Alpha](https://dummyimage.com/600x300/4dbeee/ffffff\&text=CL+vs+Alpha)
+2. **CL vs Alpha (Climb)**  
+   ![CL vs Alpha Climb](img/cl_vs_alpha_climb.jpg)
 
-2. **Thrust vs Velocity**
-   ![Thrust vs Velocity](https://dummyimage.com/600x300/edb120/ffffff\&text=Thrust+vs+Velocity)
+3. **Thrust vs Velocity**  
+   ![Thrust vs Velocity](img/thrust_vs_velocity.jpg)
 
-3. **Altitude vs Velocity Envelope**
-   ![Flight Envelope](https://dummyimage.com/600x300/77ac30/ffffff\&text=Flight+Envelope)
+4. **Steady Flight Envelope**  
+   ![Steady Flight Envelope](img/steady_envelope.jpg)
 
-4. **Full 3D Flight Envelope**
-   ![3D Flight Envelope](https://dummyimage.com/600x300/2ca02c/ffffff\&text=3D+Envelope)
+5. **Full Flight Envelope (3D)**  
+   ![Full Flight Envelope](img/full_envelope1.jpg)
 
----
-
-### Propeller Aircraft
-
-1. **Power vs Velocity**
-   ![Power vs Velocity](https://dummyimage.com/600x300/f39c12/ffffff\&text=Power+vs+Velocity)
-
-2. **Altitude vs Velocity Envelope**
-   ![Flight Envelope](https://dummyimage.com/600x300/27ae60/ffffff\&text=Altitude+Envelope)
-
-3. **Full 3D Flight Envelope**
-   ![3D Flight Envelope](https://dummyimage.com/600x300/3498db/ffffff\&text=3D+Envelope)
-
----
 
 ## 🚀 Usage
 
